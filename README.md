@@ -27,4 +27,4 @@ npm install --save styled-components
 
 ### Sample Layout
 
-![layout](https://github.com/1sh1vam/order-images/blob/main/images/Screenshot_2021-03-19%20React%20App(1).png)
+![layout](https://github.com/1sh1vam/movie-search-app/blob/main/images/Screenshot_2021-03-19%20React%20App.png)
